@@ -8,6 +8,7 @@ const routes: Routes = [
     component:ContactosComponent
 
   }
+];
 @NgModule({
   imports: [RouterModule.forRoot(routes)],
   exports: [RouterModule]

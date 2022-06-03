@@ -8,7 +8,6 @@ import { ContactosComponent } from './components/contactos/contactos.component';
 @NgModule({
   declarations: [
     AppComponent,
-    ConsultaComponent,
     ContactosComponent
   ],
   imports: [
