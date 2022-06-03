@@ -1,4 +1,7 @@
+TERCER EXAMEN TECNOLOGÍAS WEB
+
 2/JUNIO/2022
+
 Integrantes:
 1.	Alba Pando, Eddie Andre (trabajo en la pestaña de inicio, adicionalmente colaboro en la realización de los componentes navbar y del diseño completo de la página web).
 2.	Beltran Quispe, Ruddy Randolt (trabajo en la pestaña de contactos, adicionalmente colaboro en la realización del diseño completo de la página web).
