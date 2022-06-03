@@ -17,12 +17,18 @@ import { environment } from '../environments/environment';
 import { ReactiveFormsModule } from '@angular/forms';
 import { ToastrModule } from 'ngx-toastr';
 
+import { ContactosComponent } from './components/contactos/contactos.component';
+import { NavComponent } from './components/nav/nav.component';
+
+
 @NgModule({
   declarations: [
     AppComponent,
     ListEmpleadosComponent,
     CreateEmpleadoComponent,
-    NavbarComponent
+    NavbarComponent,
+    ContactosComponent,
+    NavComponent
   ],
   imports: [
     BrowserModule,
